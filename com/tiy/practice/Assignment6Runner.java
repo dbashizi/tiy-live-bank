@@ -3,7 +3,7 @@ package com.tiy.practice;
 import java.util.Scanner;
 
 /**
- * Created by dbashizi on 8/15/16.
+ * Created by dbashizi on 8/15/16 .
  */
 public class Assignment6Runner {
 
